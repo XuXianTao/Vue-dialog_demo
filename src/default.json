@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "黄蓉",
+      "date": "this.collectTime(new Date)"
+    },
+    {
+      "id": 2,
+      "name": "郭靖",
+      "date": "this.collectTime(new Date)"
+    }
+  ],
+  "msgs": [
+    {
+      "id": 1,
+      "time": "2018-1-1 19:00:00",
+      "msg": "HELLO!!!",
+      "by": "黄蓉"
+    },
+    {
+      "id": 2,
+      "time": "2018-1-1 19:00:05",
+      "msg": "BYE!!!",
+      "by": "郭靖"
+    },
+    {
+      "id": 3,
+      "time": "2018-1-1 19:00:30",
+      "msg": "HELLO!!!Yes",
+      "by": "黄蓉"
+    }
+  ],
+  "next_msgid": 4,
+  "next_userid": 3
+}
