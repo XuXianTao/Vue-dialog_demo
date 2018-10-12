@@ -74,7 +74,7 @@ export default {
     left 50%
     top 50px
     width 800px
-    height 800px
+    height 70vh
     margin-left -(@width / 2)
     padding 20px
     background-color white
